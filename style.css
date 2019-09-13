@@ -1,0 +1,18 @@
+body{
+    background: #e3e3e3;
+    font-family: sans-serif
+}
+.wrap{
+    max-width: 500px;
+    margin: auto;
+}
+.quotes {
+    border:1px solid #fff;
+    margin-left: 0;
+    text-align: center;
+}
+h1{
+    color:red;
+}
+h2{color: green
+}
